@@ -1,0 +1,29 @@
+/* Add application styles & imports to this file! */
+.contain-image {
+  object-fit: contain;
+  background-color: black;
+  object-position: top left;
+}
+
+.cover-image {
+  object-fit: cover;
+  background-color: black;
+  object-position: top left;
+}
+
+.fill-image {
+  object-fit: fill;
+  background-color: black;
+  object-position: top left;
+}
+
+.none-image {
+  object-fit: none;
+  background-color: black;
+  object-position: top left;
+}
+
+.size-image {
+  width: 360px;
+  height: 264px;
+}
